@@ -6,7 +6,7 @@ Tableau 10 Bootcamp delivers practical, learning modules in manageable chunks. E
 
 Each chapter presents core concepts and key takeaways about a topic in Tableau and provides a series of hands-on exercises. In addition to these exercises, at the end of the chapter you will find self-check quizzes and extra drills to challenge you to take what you learned to the next level. In totality this bootcamp book will equip the readers with step-by-step instruction through rigorous tasks, Practical callouts, various real world examples and assignments to reinforce your understanding of Tableau 10.
 
-##Instructions and Navigation
+## Instructions and Navigation
 
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter 02.
 
@@ -20,7 +20,7 @@ Code Snippet:
 | Washington | 300,000 |
 | Virginia | 200,000 |
 
-###Related Products:
+### Related Products:
 
  * [Learning Tableau](https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_content=9781784391164) 
  
